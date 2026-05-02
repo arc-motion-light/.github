@@ -20,7 +20,7 @@ Key tracks include:
 
 ## Current pilot direction
 
-One active application of the platform is **Skolehaven 4.0 - AI-accelerated**, a Danish climate and learning lab concept for schools, libraries and maker environments.
+One active application of the platform is **ClimaLab - AI-accelerated**, a Danish climate and learning lab concept for schools, libraries and maker environments.
 
 The pilot direction combines:
 
