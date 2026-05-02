@@ -53,7 +53,7 @@ The intention is simple: make advanced embedded development more transparent, re
 
 The first public process anchor is:
 
-- [ARC-Devs](https://github.com/Arc-motion/ARC-Devs) - current development status, bring-up notes and milestone-oriented documentation for ARC modules and the Skolehaven 4.0 pilot work.
+- [ARC-Devs](https://github.com/Arc-motion/ARC-Devs) - current development status, bring-up notes and milestone-oriented documentation for ARC modules and the ClimaLab - AI Accelerated pilot work.
 
 ## Principles
 
