@@ -12,7 +12,7 @@ Key tracks include:
 
 - **ARC-Probe** - low-power environmental and soil sensing nodes for plant, climate and learning pilots.
 - **ARC-Light** - efficient horticultural LED lighting with active power-stage control, thermal awareness and firmware-driven profiles.
-- **ARC-PumpValve** - simple water, pump, valve and flow-control modules for ebb-and-flow growing systems.
+- **ARC-PumpValve** - simple water, pump, valve and flow-control modules for ebb-and-flow growing systems, including exploratory magnet-coupled impeller concepts for simpler sealing and low-maintenance water flow.
 - **ARC-Gateway** - local-to-cloud connectivity for sensors, lights and field devices.
 - **ARC-App** - mobile and web-facing user interfaces that turn device data into useful status, learning flows and pilot documentation.
 - **ARC-Motion** - motion-control research around synchronized axes, S-curve planning, true arcs, motor drivers and distributed execution nodes.
