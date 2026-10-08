@@ -1,68 +1,27 @@
-# Arc-Motion
+![Official ARC logo](assets/arc-logo.png)
 
-Arc-Motion is a small applied R&D initiative focused on modular embedded systems for climate learning, field robotics, energy-aware hardware and light electric mobility.
+# ARC Motion & Light
 
-We build practical prototypes where hardware, firmware, data, documentation and learning materials evolve together. The work is rooted in hands-on engineering: sensors, motor control, horticultural lighting, battery systems, wireless nodes, gateways, apps and physical pilot setups.
+**Intelligent Embedded Systems for Light, Environment and Motion**
 
-## What we are building
+ARC develops modular embedded hardware and software for intelligent lighting, environmental sensing, connectivity and motion applications. The demonstrated Lamp architecture keeps G4 real-time control and safety separate from WBA5 wireless communication and retained history. Other applications have their own development and validation paths.
 
-Our current work is organized around a modular platform called the ARC / Field Stack direction. The goal is not one single product, but a reusable architecture for field devices that can be repaired, documented, adapted and taught.
+## ARC Open Development
 
-Key tracks include:
+**Explore real technology. Ask questions. Learn together.**
 
-- **ARC-Probe** - low-power environmental and soil sensing nodes for plant, climate and learning pilots.
-- **ARC-Light** - efficient horticultural LED lighting with active power-stage control, thermal awareness and firmware-driven profiles.
-- **ARC-PumpValve** - simple water, pump, valve and flow-control modules for ebb-and-flow growing systems, including exploratory magnet-coupled impeller concepts for simpler sealing and low-maintenance water flow.
-- **ARC-Gateway** - local-to-cloud connectivity for sensors, lights and field devices.
-- **ARC-App** - mobile and web-facing user interfaces that turn device data into useful status, learning flows and pilot documentation.
-- **ARC-Motion** - motion-control research around synchronized axes, S-curve planning, true arcs, motor drivers and distributed execution nodes.
-- **ARC-Stack** - serviceable battery and power concepts for field equipment, energy learning and future light mobility.
+Our initiative invites people to explore real engineering, understand design decisions and develop practical ideas together. We welcome education and experiments between schools, upper secondary schools, universities and families across locations. Explore the planned central [arc-open-development repository](https://github.com/arc-motion-light/arc-open-development) for architecture, product families, development evidence, licensing and collaboration policies.
 
-## Current pilot direction
+WBA5 is the current development generation. Probe telemetry recovery is reported after a temporary Thread-configuration regression; WBA6 compilation and uninterrupted long-term reliability are not asserted as proven.
 
-One active application of the platform is **ClimaLab - AI-accelerated**, a Danish climate and learning lab concept for schools, libraries and maker environments.
+Original ARC public documentation uses **CC BY-NC 4.0**; original ARC-owned firmware has the separate **PolyForm Noncommercial 1.0.0** policy. Logos/trademarks are **all rights reserved**, with hardware, executable tooling and third-party material separately governed. Public documentation reuse does not imply brand permission or ARC endorsement.
 
-The pilot direction combines:
+Commercial integration, OEM and research collaboration: **[juan@arcstore.io](mailto:juan@arcstore.io)**. Pricing and commercial terms require separate agreement.
 
-- ebb-and-flow plant growing frames
-- environmental probes
-- controlled grow lighting
-- water and pump logic
-- gateway/app data flows
-- documentation that teachers, students and partners can follow
+ARC Motion & Light is a Danish personally owned business operated by Juan-Antonio Søren Espinoza Pedersen. Founder-supplied CVR: 34843341; independent register verification is not claimed.
 
-The first realistic pilot target is a winter setup in early 2027, where light, temperature, water, data and plant growth become very tangible topics for students and visitors.
+[Website](https://arcstore.io) · [GitHub organization](https://github.com/arc-motion-light)
 
-## How we work
+**ARC Motion & Light — Developed in Denmark**
 
-Arc-Motion uses Git, AI-assisted development and short documentation loops to make progress visible while the engineering work is happening.
-
-That means repositories are not only places for final code. They are also used for:
-
-- bring-up logs
-- milestone tracking
-- firmware notes
-- hardware status
-- test observations
-- public or curated process documentation
-- learning-oriented explanations of technical work
-
-The intention is simple: make advanced embedded development more transparent, reusable and understandable.
-
-## Public process repository
-
-The first public process anchor is:
-
-- [ARC-Devs](https://github.com/Arc-motion/ARC-Devs) - current development status, bring-up notes and milestone-oriented documentation for ARC modules and the ClimaLab - AI Accelerated pilot work.
-
-## Principles
-
-- Build real hardware and test it physically.
-- Keep modules understandable and serviceable.
-- Treat documentation as part of development, not an afterthought.
-- Use AI/Copilot to increase output, but verify with measurement, review and working prototypes.
-- Translate technical progress into learning, climate relevance and practical community value.
-
-## Contact and collaboration
-
-Arc-Motion is early-stage and prototype-driven. If you are visiting from a school, maker space, research environment, library, hardware community or potential partner organization, the best starting point is to follow the public repositories and the evolving pilot documentation.
+Copyright © 2026 Juan-Antonio Søren Espinoza Pedersen, trading as ARC Motion & Light, Denmark, https://arcstore.io. Original profile text: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Logo excluded; all rights reserved.
